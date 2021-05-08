@@ -43,7 +43,7 @@ export const NavBar = () => {
                   to="/proyects"
                   activeClassName="active"
                 >
-                  Proyects
+                  Projects
                 </NavLink>
               </li>
             </ul>

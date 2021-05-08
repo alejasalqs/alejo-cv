@@ -12,7 +12,7 @@ export const AboutScreen = () => {
             software developer, I am currently working in a costarican pyme
             where we provide POS software to small and medium costarican
             companys. In my life i like to spend time learnign and improving my
-            tecnichal and soft skills, rigth now I am learning web technologies
+            technical and soft skills, rigth now I am learning web technologies
             such as: react, angular, sass, nodeJS and Xamarin.Forms. Thank you
             for visiting this web page. If you want more information please send
             me an email to alejandrosalgueroq@hotmail.com. 😄

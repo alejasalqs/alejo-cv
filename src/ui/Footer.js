@@ -45,7 +45,7 @@ export const Footer = () => {
         <div className="text-center text-dark p-3">
           If you want to get in touch with me please send me an email at:
           <a className="text-dark" href="mailto:alejandrosalguero@hotmail.com">
-            alejandrosalguero@hotmail.com
+            alejandrosalgueroq@hotmail.com
           </a>
         </div>
       </footer>
