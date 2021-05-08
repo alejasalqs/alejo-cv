@@ -11,7 +11,7 @@ export const NavBar = () => {
             to="/about"
             activeClassName="active"
           >
-            salguero.dev
+            salguero.xyz
           </NavLink>
           <button
             className="navbar-toggler"

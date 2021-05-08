@@ -19,7 +19,8 @@ export const proyects = [
       "This proyect was made using react, in this i was practicing with react-router and blocking routes.",
     name: "Heroes App",
     url: "https://alejasalqs.github.io/react-heros-app/",
-    img: "",
+    img:
+      "https://res.cloudinary.com/asalguerodev/image/upload/v1620276571/resume-app/heroesApp.png",
   },
   {
     description:
@@ -28,5 +29,13 @@ export const proyects = [
     url: "https://alejasalqs.github.io/react-pokemon-app/",
     img:
       "https://res.cloudinary.com/asalguerodev/image/upload/v1620274171/resume-app/pokedex-app.png",
+  },
+  {
+    description:
+      "This react proyect consumes a pokemon API and displays the results simulating a pokedex. Made with react, react-router, html and bootstrap.",
+    name: "Hooks App",
+    url: "https://alejasalqs.github.io/react-hooks/",
+    img:
+      "https://res.cloudinary.com/asalguerodev/image/upload/v1620362450/resume-app/hooksApp.png",
   },
 ];

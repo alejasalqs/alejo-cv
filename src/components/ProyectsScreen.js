@@ -7,9 +7,9 @@ export const ProyectsScreen = () => {
 
   return (
     <>
-      <h1>Proyects</h1>
+      <h1>Proyects 💻</h1>
       <hr />
-      <div className="row row-cols-1 row-cols-md-3 g-4">
+      <div className="row row-cols-1 row-cols-md-3 g-4 animate__animated animate__fadeIn">
         {proyectsData.map((proyect) => (
           <ProyectCard key={proyect.name} {...proyect} />
         ))}
