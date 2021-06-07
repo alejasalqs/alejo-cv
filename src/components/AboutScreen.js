@@ -9,10 +9,10 @@ export const AboutScreen = () => {
         <div className="col">
           <p>
             Hey!👋 I am Alejandro, 22 years old working in the IT world as a
-            software developer, I am currently working in a costarican pyme
-            where we provide POS software to small and medium costarican
-            companys. In my life i like to spend time learnign and improving my
-            technical and soft skills, rigth now I am learning web technologies
+            software developer, I am currently working in a costa rican pyme
+            where we provide POS software to small and medium costa rican
+            companies. In my life i like to spend time learnign and improving my
+            technical and soft skills, right now I am learning web technologies
             such as: react, angular, sass, nodeJS and Xamarin.Forms. Thank you
             for visiting this web page. If you want more information please send
             me an email to alejandrosalgueroq@hotmail.com. 😄
